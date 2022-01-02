@@ -1042,7 +1042,7 @@ From a combination of the github reference and the video:
 
 1.  Give sheet a Title: I *Named mine, "ESP\_Sump\_Pump\_Monitor"*
 
-2.  Go to Tools|Script Editor
+2.  Go to Extensions|App Script
 
 3.  Give the App a Name: *I named mine, "ESPSumpPumpLevel"*
 
